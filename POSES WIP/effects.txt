@@ -1,0 +1,1 @@
+(motion lines:1.1),(motion blur:1.1),(speed lines:1.1),(trembling:1.1),(trembling lines:1.1)

@@ -1,0 +1,5 @@
+high angle, (from above:1.2)
+low angle,(from below:1.2)
+dutch angle,diagonal angle
+side view,from side
+side view,profile
